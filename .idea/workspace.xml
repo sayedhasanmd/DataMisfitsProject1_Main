@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a910c8e4-dc5e-411e-993e-c1f7294c17a7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AxRvOK1hUFscEclJemkPaVF9Zc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS" />
+    <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/bjs-runner.xml" />
+    <option name="TEST_OBJECT" value="SUITE" />
+    <properties />
+    <listeners />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+    <configuration>
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list />
+    </recent_temporary>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/ronyc/OneDrive/Desktop/DataMisfitsProject1-main/src/test/resources/ebay-runner.xml">
+    <configuration name="C:/Users/ronyc/OneDrive/Desktop/DataMisfitsProject1-main/src/test/resources/ebay-runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataMisfitsProject1-main" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/ebay-runner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataMisfitsProject1-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apps.ebay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apps.ebay" />
+      <option name="MAIN_CLASS_NAME" value="apps.ebay.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.searchLandOLakesEggs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCampProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apps.bjs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/bjs-runner.xml" />
+      <option name="PACKAGE_NAME" value="apps.bjs" />
+      <option name="MAIN_CLASS_NAME" value="apps.bjs.SearchTest" />
+      <option name="METHOD_NAME" value="searchLandOLakesEggs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/kevinschool/IdeaProjects/DataMisfitsProject1/src/test/resources/bjs-runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCampProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/bjs-runner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/ronyc/OneDrive/Desktop/DataMisfitsProject1-main/src/test/resources/ebay-runner.xml" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG./Users/kevinschool/IdeaProjects/DataMisfitsProject1/src/test/resources/bjs-runner.xml" />
+        <item itemvalue="TestNG.SearchTest.searchLandOLakesEggs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a910c8e4-dc5e-411e-993e-c1f7294c17a7" name="Changes" comment="" />
+      <created>1655141141355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655141141355</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
